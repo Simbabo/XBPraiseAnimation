@@ -25,4 +25,4 @@ praiseAnimation.rightSpacing = 50;`
 6.开始启动动画,可设置同事展示数量  
 `<[praiseAnimation animate:2];>`  
 
-![image text]()
+![image text](https://github.com/Simbabo/XBPraiseAnimation/blob/master/demo_pictures.gif)
