@@ -23,5 +23,6 @@ praiseAnimation.rightSpacing = 50;`
 `praiseAnimation.imageSize = CGRectMark(25,25);`  
 
 6.开始启动动画,可设置同事展示数量  
-`<[praiseAnimation animate:2];>`
+`<[praiseAnimation animate:2];>`  
 
+![image text]()
