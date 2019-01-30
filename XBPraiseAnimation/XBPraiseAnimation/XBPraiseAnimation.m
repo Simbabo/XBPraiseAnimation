@@ -80,7 +80,7 @@
 
 @interface XBPraiseAnimation()
 @property (nonatomic ,strong) NSArray<UIImage *>* imageArray;
-@property (nonatomic ,strong) UIView *view;
+@property (nonatomic ,weak) UIView *view;
 @property (nonatomic ,assign) CGPoint point;
 @end
 @implementation XBPraiseAnimation
